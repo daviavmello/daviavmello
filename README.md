@@ -7,5 +7,5 @@
 - 📮  For inquiries please get in touch with me [here](https://www.davimello.com/#contact).
 ### Social Media
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/loiane?style=social)]([https://twitter.com/DaviMello](https://twitter.com/DaviMello))
+[![Twitter Follow](https://img.shields.io/twitter/follow/DaviMello?style=social)]([https://twitter.com/DaviMello](https://twitter.com/DaviMello))
 [![Linkedin: daviavmello](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daviavmello/)]([https://www.linkedin.com/in/loiane/](https://www.linkedin.com/in/daviavmello/))
