@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭  I am a Software Developer passionate about delivering outstanding user interfaces and seamless data integration.
+- 🔭  I am a Software Developer with a background in front-end development and a focus on problem-solving.
 - 🚀 I have developed [BlueShip](https://play.google.com/store/apps/details?id=com.blueship.mobile).
 - 🥞  I work with TypeScript & Angular, Java & Spring. 
 - ⚡ Not tech-related: you can find me on [YouTube](https://youtu.be/yyyYsj0ovtY) playing my guitar or at the closest rock-climbing gym.
